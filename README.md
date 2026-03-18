@@ -25,8 +25,8 @@ Trained the model and tracked performance across epochs
 
 Performed inference and visualized predicted segmentation masks
 
-**Tools used:
-**
+**Tools used:**
+
 Python
 
 PyTorch
